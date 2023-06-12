@@ -1,0 +1,4 @@
+com/qa/opencart/factory/PlaywrightFactory.class
+com/qa/opencart/factory/PlaywrightFactoryThreadLocal.class
+com/qa/opencart/constants/Paths.class
+com/qa/opencart/pages/LoginPage.class
